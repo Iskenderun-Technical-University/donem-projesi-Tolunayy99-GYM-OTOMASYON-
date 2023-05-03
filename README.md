@@ -2,3 +2,6 @@
 
 SPOR SALONU OTOMASYONU:
 veri tabanı ile üyelik takibi ve üyelik kayıtları takip edilcek sekılde bir otoamsyon yapacagım.
+
+böyle bir projeyi gündelik hayatta cok sık karşılastııgım için yapmak istiyorum
+ proje bittiğinde bir spor salonuna yeni kayıt olunabilcek ve kayıtlar tutulabılecek
